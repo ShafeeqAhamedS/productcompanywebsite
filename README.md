@@ -65,9 +65,9 @@ Publish the website in the given URL.
               <table class="td5">
                 <tr>
                   <td class="td4">1000+</br>Happy customers</td>
-                  <td class="td4">40+</br>Experience</td>
+                  <td class="td4">40+</br>Years of Experience</td>
                   <td class="td4">35+</br>Countries</td>
-                  <td class="td4">30</br>GLobal Offices</td>
+                  <td class="td4">30</br>Global Offices</td>
                   <td class="td4">2500+</br>Employees</td>
                 </tr>
               </table>
@@ -200,6 +200,7 @@ Publish the website in the given URL.
     </div>
   </body>
 </html>
+
 ```
 ### People Page:
 ```
@@ -382,27 +383,24 @@ Publish the website in the given URL.
       </div>
       <div class="content">
         <div class="productcontent">    
-          <h1>Conact Us</h1>
+          <h1>Contact Us</h1>
           <h2>Genesis Software Pvt.Ltd.</h2>
           <table width="100%" border="0" cellspacing="0" cellpadding="0">
             <tr>
               <td width="33%" valign="top">
-                          <p>
-                            <i>
-                              <strong>Corporate & Registered Office</strong></i></p>
-                              <p>Genesis Software Pvt.Ltd.<br />
-                               #92, Genesis Towers<br />
-                               3rd & 4th Floor, Genesis Main Road,  <br/>
-                               Genesis Nagar</br>
-                               Chennai - 600 024<br />
-                               Tamilnadu, India.<br /><br />
-                               Phone: +91-95486 54514<br />
-                               Tel: 044-4257-4664<br />
-                               e-mail:<a target='_blank' href='mailto:info@genesissoftpvtltd.com?Subject=Enquiry for Genesis Software Pvt.Ltd.'> info@genesissoftpvtltd.com</a><br />
-                              </p><br />
+                    <p><i><strong>Corporate & Registered Office</strong></i></p>
+                    <p>Genesis Software Pvt.Ltd.<br />
+                    #92, Genesis Towers<br />
+                    1st & 2nd Floor, Genesis Main Road,  <br/>
+                    Genesis Nagar</br>
+                    Chennai - 600 024<br />
+                    Tamilnadu, India.<br /><br />
+                    Phone: +91-95486 54514<br />
+                    Tel: 044-4257-4664<br />
+                    e-mail:<a target='_blank' href='mailto:info@genesissoftpvtltd.com?Subject=Enquiry for Genesis Software Pvt.Ltd.'> info@genesissoftpvtltd.com</a><br />
+                    </p><br />
                 </td>
               <td width="33%" valign="top">
-              
                <p><strong>Training& Development Centre Genesis Ltd.</strong><br/> 
                     <p>Genesis Software Pvt.Ltd.<br />
                      #92, Genesis Towers<br />
@@ -414,23 +412,21 @@ Publish the website in the given URL.
                      Tel: 044-4257-4454<br />
                      e-mail:<a target='_blank' href='mailto:training@genesissoftpvtltd.com?Subject=Enquiry for Training & Development @ Genesis Software Pvt.Ltd.'> tandd@genesissoftpvtltd.com</a><br />
                     </p><br />
-      </td>
+                </td>
               <td width="33%" valign="top">
-              
-               <p><strong>Media  & Investor Relations</strong><br/> <p> 
-                                        
-                                         <p><strong>Satya Nadella</strong> <br/>Vice President<p> 
-                                         <p>Genesis Software Pvt.Ltd. <br />
-                                          #92, Genesis Towers<br />
-                                          2nd Floor, Genesis Main Road,  <br/>
-                                          Genesis Nagar</br>
-                                          Chennai - 600 024<br />
-                                          Tamilnadu, India.<br /><br />
-                                          Phone: +91-95486 54249<br />
-                                          Tel: 044-4257-4578<br />
-                                          e-mail:<a target='_blank' href='mailto:media@genesissoftpvtltd.com?Subject=Enquiry for Media and Related @ Genesis Software Pvt.Ltd.'> media@genesissoftpvtltd.com</a><br />
-                                         </p><br />
-                           </td>
+               <p><strong>Media  & Investor Relations</strong><br/> <p>                          
+                      <p><strong>Satya Nadella</strong> <br/>Vice President<p> 
+                      <p>Genesis Software Pvt.Ltd. <br />
+                      #92, Genesis Towers<br />
+                      3rd Floor, Genesis Main Road,  <br/>
+                      Genesis Nagar</br>
+                      Chennai - 600 024<br />
+                      Tamilnadu, India.<br /><br />
+                      Phone: +91-95486 54249<br />
+                      Tel: 044-4257-4578<br />
+                      e-mail:<a target='_blank' href='mailto:media@genesissoftpvtltd.com?Subject=Enquiry for Media and Related @ Genesis Software Pvt.Ltd.'> media@genesissoftpvtltd.com</a><br />
+                      </p><br />
+                </td>
             </tr>
           </table>
         </div>
