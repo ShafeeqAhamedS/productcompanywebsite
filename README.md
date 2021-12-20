@@ -246,7 +246,7 @@ Publish the website in the given URL.
       <div class="content">
       <div class="content">
         <div class="productcontent">    
-          <h1>Our Premium Products</h1>
+          <h1>Our Well Trained & Experienced Workers</h1>
           <div class="productitems">
             <table class="td">
               <th style="text-align: left;">Managing Director</th>
@@ -271,7 +271,7 @@ Publish the website in the given URL.
                   VP, Genesis Software Pvt.Ltd.
                 </td>
               <table class="td">
-                  <th style="text-align: left;">Office Of Software Services(OSS)</th>
+                  <th colspan="3" style="text-align: left;">Office Of Software Services(OSS)<br>Icludes Software Development, App Development & Game Development</th>
                   <tr>
                     <td class="td3">
                       <img src="img/sanjay.png" alt="hi"></br>
@@ -291,7 +291,7 @@ Publish the website in the given URL.
                   </tr>
             </table>
             <table class="td">
-              <th style="text-align: left;">Office Of Web Services(OWS)</th>
+              <th colspan="3" style="text-align: left;">Office Of Web Services(OWS)<br>Icludes Web Development, Server Side Development, Database Services & Cloud Services</th>
               <tr>
                 <td class="td3">
                   <img src="img/manoj.png" alt="hi"></br>
@@ -311,7 +311,7 @@ Publish the website in the given URL.
               </tr>
         </table>
         <table class="td">
-          <th style="text-align: left;">Office Of Cyber Space(OCS)</th>
+          <th colspan="3" style="text-align: left;">Office Of Cyber Space(OCS)<br>Cyber Security & Ethical Hacking</th>
           <tr>
             <td class="td3">
               <img src="img/jeevams.png" alt="hi"></br>
@@ -331,7 +331,7 @@ Publish the website in the given URL.
           </tr>
     </table>
     <table class="td">
-      <th style="text-align: left;">Office Of AI & Services (OAIS)</th>
+      <th colspan="3" style="text-align: left;">Office Of AI & Services (OAIS)<br>Icludes Industrial Robotics, AI Services & Data Related Services</th>
       <tr>
         <td class="td3">
           <img src="img/jovi.png" alt="hi"></br>
@@ -648,7 +648,7 @@ padding-bottom: 5px;
 ### Products Page:
 ![output](./images/products.png)
 ### People Page:
-![output](./images/people.png)
+![output](./images/peoples.png)
 ### Contact Us Page:
 ![output](./images/contactus.png)
 ## Result:
