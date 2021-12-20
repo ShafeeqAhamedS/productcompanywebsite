@@ -195,24 +195,3 @@ padding-bottom: 5px;
   width: 100%; 
       border: 0px;
   }
-  .td{
-      width: 100%; 
-      border: 0px;
-      text-align: center;
-  }
-  .td2{
-      width: 50%;
-  text-align: center;
-  padding-left: 5px;
-  padding-bottom: 5px;
-  }
-  .td3{
-      width: 33%;
-  text-align: center;
-  padding-left: 5px;
-  padding-bottom: 5px;
-  }
-  img{
-      height: 50px;
-      width: 50px;
-  }
