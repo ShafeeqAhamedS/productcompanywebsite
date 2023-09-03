@@ -11,6 +11,7 @@ This project is a simple website that uses HTML and CSS to create a basic layout
 
 * HTML
 * CSS
+* Django
 
 ## Screenshots
 
