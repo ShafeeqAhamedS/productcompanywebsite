@@ -1,4 +1,4 @@
-# Web Page for a Software Company
+# <p align="center">Web Page for a Software Company</p>
 
 This project is a simple website that uses HTML and CSS to create a basic layout with 4 pages for the company.
 
